@@ -1,0 +1,3 @@
+https://github.com/OWASP/owasp-mstg.git
+https://github.com/OWASP/juice-shop.git
+https://github.com/gitleaks/gitleaks.git
